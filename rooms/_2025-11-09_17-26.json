@@ -1,0 +1,23 @@
+{
+  "round": 11,
+  "courts": [
+    [
+      "bob",
+      "tiku",
+      "bunny",
+      "tusho"
+    ],
+    [
+      "bumi",
+      "pluto",
+      "dino",
+      "sonia"
+    ]
+  ],
+  "benched": [
+    "Sai",
+    "sara",
+    "jen"
+  ],
+  "updated": "2025-11-09T17:26:29.277402"
+}
