@@ -1,24 +1,24 @@
 {
   "group_name": "",
-  "round": 13,
+  "round": 1,
   "courts": [
     [
-      "bunny",
-      "Sai",
-      "sara",
-      "pluto"
+      "bob",
+      "jen",
+      "tusho",
+      "bunny"
     ],
     [
-      "bob",
-      "bumi",
-      "jen",
-      "tiku"
+      "dino",
+      "sonia",
+      "pluto",
+      "bumi"
     ]
   ],
   "benched": [
-    "dino",
-    "sonia",
-    "tusho"
+    "tiku",
+    "Sai",
+    "sara"
   ],
-  "updated": "2025-11-09T17:38:07.298056"
+  "updated": "2025-11-09T17:38:39.702913"
 }
