@@ -1,0 +1,24 @@
+{
+  "group_name": "test group (11)",
+  "round": 4,
+  "courts": [
+    [
+      "Sai",
+      "bunny",
+      "bumi",
+      "sonia"
+    ],
+    [
+      "pluto",
+      "dino",
+      "bob",
+      "jen"
+    ]
+  ],
+  "benched": [
+    "tusho",
+    "tiku",
+    "sara"
+  ],
+  "updated": "2025-11-09T18:02:31.253080"
+}
