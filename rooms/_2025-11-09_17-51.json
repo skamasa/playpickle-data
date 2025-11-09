@@ -1,0 +1,24 @@
+{
+  "group_name": "PlayPickle",
+  "round": 3,
+  "courts": [
+    [
+      "sara",
+      "tusho",
+      "sonia",
+      "Sai"
+    ],
+    [
+      "jen",
+      "bumi",
+      "bob",
+      "tiku"
+    ]
+  ],
+  "benched": [
+    "pluto",
+    "bunny",
+    "dino"
+  ],
+  "updated": "2025-11-09T17:51:40.360458"
+}
